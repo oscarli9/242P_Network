@@ -1,0 +1,10 @@
+This is a test file.
+
+On structural level, there is some difference.
+
+useful for doing sth
+useful to do sth
+
+useful for / to sb-sth
+
+On semantic level, I see no difference.
